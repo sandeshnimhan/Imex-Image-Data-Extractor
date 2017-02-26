@@ -17,6 +17,6 @@ To execute
 
 Improvements
 [
-Version 1.1 will be uploaded soon, with image enhancing feature, 100% character recognition, and much more
+Version 1.1 will be uploaded soon, with image enhancing feature, 100% character recognition, and much more.
 Makefile to be included in next revision
 ]
